@@ -1,8 +1,8 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
 *soal ini berbobot lebih daripada soal sebelah*
-NAMA: `isi nama disini`
+NAMA: Made Astla Della Mareita
 
-NRP: `isi nrp disini`
+NRP: 06111840000094
 
 
 ## DESKRIPSI SOAL
@@ -48,6 +48,8 @@ output: -27i3
 
 ## screenshot hasil
 ![image](https://user-images.githubusercontent.com/56078501/66198863-8f62ad80-e6c7-11e9-82bc-0f2156f7eaae.png)
+![image](https://user-images.githubusercontent.com/56078501/66198942-c20ca600-e6c7-11e9-9ef4-3d1e1fa4b027.png)
+
 
 
 ## UPLOAD
